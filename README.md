@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Learning-Code-Review
-In this project I and Hasina was able to build a tribute page for the Legend go South Africa in the Person of Nelson Mandela. The major aim of this project was to learn how to collaboration when building projects.
+In this project I and Hasina was able to build a tribute page for the Legend of South Africa in the Person of Nelson Mandela. The major aim of this project was to learn collaboration when building projects.
 
 
 ## Built With
@@ -33,6 +33,7 @@ In this project I and Hasina was able to build a tribute page for the Legend go 
 👤 **Hasina**
 
 - GitHub: [@Hasina87](https://github.com/Hasina87)
+
 
 ## 🤝 Contributing
 
