@@ -33,6 +33,6 @@ h1 {
 #img {
   width: 100%;
   object-fit: contain;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0 5px 15px;
   margin-bottom: 2rem;
 }
